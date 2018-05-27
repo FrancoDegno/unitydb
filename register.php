@@ -1,3 +1,5 @@
+<html>
+<body>holissss</body>
 <?php 
 	$server ='localhost';
 	$user= 'root';
@@ -28,3 +30,4 @@
 
 
  ?>
+  </html>
