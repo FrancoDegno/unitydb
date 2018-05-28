@@ -8,6 +8,7 @@
 
 	if(!$conection)
 	{
+		echo "re locoo";
 		echo 'Error Connection';
 	}
 
