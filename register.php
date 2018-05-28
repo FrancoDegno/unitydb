@@ -1,9 +1,8 @@
-<html>
-<body>holissss</body>
+
 <?php 
 	$server ='localhost';
 	$user= 'root';
-	$pass= '';
+	$pass= '1234';
 	$database= 'test_juegos';
 
 	$conection = mysqli_connect($server,$user,$pass,$database);
@@ -30,4 +29,3 @@
 
 
  ?>
-  </html>
