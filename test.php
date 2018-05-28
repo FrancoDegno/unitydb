@@ -24,7 +24,7 @@
 	if(mysqli_num_rows($query)>0)
 		echo "Consulta Excitosa";
 	else
-		echo "Consula Erronea";
+		echo "Consulta Erronea";
 
 
  ?>
